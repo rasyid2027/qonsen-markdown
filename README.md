@@ -124,4 +124,4 @@ This theme works well (-) or great (X) in the following browsers:
 **Opera** X
 ***
 #### Theme by Me
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <halimurrasyid56@gmail.com> or you can find me on [Telegram](https://telegram.me/ochidachid "visit my telegram").
+If you have any other questions that aren't covered in the documentation, feel free to e-mail <halimurrasyid56@gmail.com> or you can find me on [Telegram](https://telegram.me/ochidachid "Achidh").
